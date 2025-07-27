@@ -1,0 +1,12 @@
+{
+  "upload": "上传",
+  "title": "标题",
+  "description": "描述",
+  "choosePlatform": "选择发布平台",
+  "uploadNow": "立即上传",
+  "home": "主页",
+  "profile": "个人资料",
+  "settings": "设置",
+  "login": "登录",
+  "logout": "登出"
+}
